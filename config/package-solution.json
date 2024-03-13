@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "power-meet-training-client-side-solution",
+    "id": "fa578d2a-e658-49e9-9a2d-f746cb3f1db3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "power-meet-training description"
+      },
+      "longDescription": {
+        "default": "power-meet-training description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "power-meet-training Feature",
+        "description": "The feature that activates elements of the power-meet-training solution.",
+        "id": "180a781d-b96e-43b1-81a2-2e2daee1b712",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/power-meet-training.sppkg"
+  }
+}

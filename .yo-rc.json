@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.18.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "power-meet-training",
+    "libraryId": "fa578d2a-e658-49e9-9a2d-f746cb3f1db3",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "power-meet-training",
+    "solutionShortDescription": "power-meet-training description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
